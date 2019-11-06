@@ -1,0 +1,7 @@
+name: WorldDecay
+version: ${project.version}
+main: me.zacherycoleman.worlddecay.WorldDecay
+api-version: 1.13
+authors: [ZacheryColeman]
+description: Makes the Minecraft world slowly decay.
+website: https://github.com/notzachery
